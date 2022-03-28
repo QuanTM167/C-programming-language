@@ -14,5 +14,5 @@ int main()
     printf("English scores: ");
     scanf("%f", &e);
     average = (a + b + c + d + e) / 5;
-    printf("The average score of that student: %f", sum);
+    printf("The average score of that student: %f", average);
 }
