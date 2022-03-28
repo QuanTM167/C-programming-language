@@ -16,3 +16,4 @@ int main()
     average = (a + b + c + d + e) / 5;
     printf("The average score of that student: %f", average);
 }
+ 
