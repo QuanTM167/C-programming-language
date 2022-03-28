@@ -2,7 +2,7 @@
 #include <math.h>
 int main()
 {
-    float a, b, c, d, e, sum;
+    float a, b, c, d, e, average;
     printf("Math scores: ");
     scanf("%f", &a);
     printf("Physics scores: ");
@@ -13,6 +13,6 @@ int main()
     scanf("%f", &d);
     printf("English scores: ");
     scanf("%f", &e);
-    sum = (a + b + c + d + e) / 5;
+    average = (a + b + c + d + e) / 5;
     printf("The average score of that student: %f", sum);
 }
