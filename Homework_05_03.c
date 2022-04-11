@@ -17,7 +17,7 @@ int main()
         s1 = s1 + pow(x,i);
         s2 = s2 + pow(-x,i);
     }
-    printf("Tong la s1 = %f",s1);
-    printf("Tong la s2 = %f",s2);
+    printf("s1 = %f\n",s1);
+    printf("s2 = %f",s2);
     return 0;
 }
