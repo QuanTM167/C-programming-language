@@ -7,34 +7,34 @@ int main()
     switch (n)
     {
     case 0:
-        printf("Zero");
+        printf("KHONG");
         break;
     case 1:
-        printf("One");
+        printf("MOT");
         break;
     case 2:
-        printf("Two");
+        printf("HAI");
         break;
     case 3:
-        printf("Three");
+        printf("BA");
         break;
     case 4:
-        printf("Four");
+        printf("BON");
         break;
     case 5:
-        printf("Five");
+        printf("NAM");
         break;
     case 6:
-        printf("Six");
+        printf("SAU");
         break;
     case 7:
-        printf("Seven");
+        printf("BAY");
         break;
     case 8:
-        printf("Eight");
+        printf("TAM");
         break;
     case 9:
-        printf("Nine");
+        printf("CHIN");
         break;
     default:
         printf("SO KHONG HOP LE");
